@@ -1,4 +1,4 @@
-# Лабораторная работа: Разработка и развертывание ERC20/TEP74 токена в тестовой сети
+# Лабораторная работа: Разработка и развертывание ERC20/TEP74/NEP141 токена в тестовой сети
 
 Цель работы:  
 Получить навыки разработки и развёртывания смарт-контрактов на платформах распределённого реестра  
@@ -24,7 +24,7 @@ Mumbai (Polygon): https://mumbaifaucet.com/
 **Не публикуйте файл .env в репозиторий. Добавьте его в .gitignore.**  
 
 ## Написание смарт-контракта
-В рамках лабораторной работы необходимо разработать токен по стандарту ERC-20 / TEP-74 на основе спецификации предложенной [OpenZeppelin](https://docs.openzeppelin.com/contracts/5.x/erc20) либо [Jetton (для сети Ton)](https://github.com/ton-blockchain/jetton-contract)
+В рамках лабораторной работы необходимо разработать токен по стандарту ERC-20 / TEP-74 / NEP-141 на основе спецификации предложенной [OpenZeppelin](https://docs.openzeppelin.com/contracts/5.x/erc20) либо [Jetton (для сети Ton)](https://github.com/ton-blockchain/jetton-contract) либо [FT NEP-141 (для сети NEAR)](https://github.com/near/NEPs/blob/master/neps/nep-0141.md)
 
 Детали реализации:
 - Должна быть возможность присвоить имя токена и символ.
