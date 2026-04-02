@@ -10,6 +10,7 @@ a.k.a
 [Лабораторная работа 1](https://gist.github.com/xrem/8d161a7e4190be750537f35a205eeae9)  
 [Лабораторная работа 2](https://github.com/is-dapps-platforms-y26/.github/blob/main/profile/lab-2.md)  
 [Лабораторная работа 3](https://github.com/is-dapps-platforms-y26/.github/blob/main/profile/lab-3.md)  
+[Лабораторная работа 4](https://github.com/is-dapps-platforms-y26/.github/blob/main/profile/lab-4.md)  
 
 ---
 
