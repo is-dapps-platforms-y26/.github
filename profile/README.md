@@ -12,6 +12,9 @@ a.k.a
 [Лабораторная работа 3](https://github.com/is-dapps-platforms-y26/.github/blob/main/profile/lab-3.md)  
 [Лабораторная работа 4](https://github.com/is-dapps-platforms-y26/.github/blob/main/profile/lab-4.md)  
 
+
+[Билеты на дифф. зачёт](https://github.com/is-dapps-platforms-y26/.github/blob/main/profile/exam-questions.md)  
+
 ---
 
 Полезные материалы:  
